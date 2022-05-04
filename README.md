@@ -1,4 +1,7 @@
-Hello, I'm dev-nagato, a programming student!
+<h1 align="left">Hi devs <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-nagato&color=green" alt="Profile views" /> </p>
+
+⚫Hello, I'm pedro but you can call me nagato, I'm a programming student!
 
 💻 studying javaScript , HTML and CSS
 
