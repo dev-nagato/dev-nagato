@@ -17,5 +17,8 @@
     
  ![anime hacker](https://raw.githubusercontent.com/dev-nagato/dev-nagato/main/Top%2015%20Best%20Anime%20Hackers.gif)
     
+    
+ ![Snake animation](https://github.com/dev-nagato/dev-nagato/blob/output/github-contribution-grid-snake.svg)
+    
      
 
