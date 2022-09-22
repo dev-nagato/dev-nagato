@@ -1,7 +1,7 @@
 <h1 align="left">Hi devs <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-nagato&color=green" alt="Profile views" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=seja+Bem+vindo+ao+meu+github,+me+chamo+dev+-+nagato.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+github,+me+chamo+dev+-+nagato.;)](https://git.io/typing-svg)
 
 ⚫Hello, I'm pedro but you can call me nagato, I'm a programming student!
 
